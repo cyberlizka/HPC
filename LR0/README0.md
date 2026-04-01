@@ -36,11 +36,11 @@
 
 #### Сравнение времени выполнения (логарифмический масштаб)
 
-![Время выполнения CPU vs GPU](<img width="859" height="547" alt="image" src="https://github.com/user-attachments/assets/10e48577-681c-4ee9-bf5b-ae72a8320ecc" />)
+<img width="859" height="547" alt="image" src="https://github.com/user-attachments/assets/10e48577-681c-4ee9-bf5b-ae72a8320ecc" />
 
 #### Ускорение GPU относительно CPU
 
-![Ускорение](<img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/f4f19bda-3a40-412a-9e03-643b8400ad5f" />)
+<img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/f4f19bda-3a40-412a-9e03-643b8400ad5f" />
 
 ---
 
