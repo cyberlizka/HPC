@@ -5,4 +5,4 @@
 ### [Лабораторная работа MatMul ](LR0/README0.md)
 ### [Лабораторная работа VecSum ](LR1/README1.md)
 ### [Лабораторная работа Salt-and-pepper ](LR2/README2.md)
-
+### [Лабораторная работа Bilateral ](LR3/README3.md)
