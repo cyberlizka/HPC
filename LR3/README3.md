@@ -46,14 +46,14 @@
 
 ## Результаты
 
-- boat.bmp, размер (512, 512)
+### boat.bmp, размер (512, 512)
 - Время GPU: 0.0001 секунд
 - Время CPU: 15.7771 секунд
 - Ускорение GPU: 122706.31x
 
 <img width="1411" height="484" alt="image" src="https://github.com/user-attachments/assets/5cafb7fa-c1b1-44b6-bf15-7afa92a73375" />
 
-- forest-aerial.bmp, размер (1920, 2560)
+### forest-aerial.bmp, размер (1920, 2560)
 - Время GPU: 0.0013 секунд
 - Время CPU: 302.8186 секунд
 - Ускорение GPU: 227128.49x
