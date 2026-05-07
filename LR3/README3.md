@@ -46,11 +46,20 @@
 
 ## Результаты
 
+- boat.bmp, размер (512, 512)
 - Время GPU: 0.0001 секунд
 - Время CPU: 15.7771 секунд
 - Ускорение GPU: 122706.31x
 
 <img width="1411" height="484" alt="image" src="https://github.com/user-attachments/assets/5cafb7fa-c1b1-44b6-bf15-7afa92a73375" />
+
+- forest-aerial.bmp, размер (1920, 2560)
+- Время GPU: 0.0013 секунд
+- Время CPU: 299.3713 секунд
+- Ускорение GPU: 224591.36x
+- forest-aerial.bmp, размер (1920, 2560)
+<img width="1398" height="427" alt="image" src="https://github.com/user-attachments/assets/123b5a4a-298a-45f4-8fdb-33db89c10874" />
+
 
 ### Результат визуализации позволяет наглядно убедиться:
 - в сохранении контуров (края лодки, мачты, отражений не размываются);
